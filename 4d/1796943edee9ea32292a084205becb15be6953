@@ -1,0 +1,27 @@
+crates/biome_js_analyze/src/lint/nursery/use_react_function_component_definition.rs
+  s_1563a0255fd448::t_83dba1979b6b97 480-481
+  s_1563a0255fd448::t_901d1392f21398 421-426
+  s_1563a0255fd448::t_b05cd0d3b8fb9e 8-10,221-229,231-237,239-241,243-352,354-420,427-479,482-511,535-537,560-606
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/arrowOptions/invalid.jsx.snap
+  s_1563a0255fd448::t_4a453c865f7733 20,36-46,51,68-75
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/functionExpressionOptions/invalid.jsx.snap
+  s_1563a0255fd448::t_4a453c865f7733 20,36-46,51,68-75
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/invalid.jsx.snap
+  s_1563a0255fd448::t_4a453c865f7733 32,48-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "4d1796943edee9ea32292a084205becb15be6953",
+  "prompts": {},
+  "sessions": {
+    "s_1563a0255fd448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cb138cf4-679c-4aeb-b9a3-cb3e45deadc2",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "Scott Nixon <citadelgrad@gmail.com>"
+    }
+  }
+}
