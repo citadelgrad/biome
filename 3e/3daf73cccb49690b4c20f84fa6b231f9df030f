@@ -1,0 +1,29 @@
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/functionExpressionOptions/invalid.jsx
+  s_1563a0255fd448::t_f84f15e626d29b 9-10
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/invalid.jsx
+  s_1563a0255fd448::t_72e6759bdcb8ed 10-11
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/functionExpressionOptions/invalid.jsx.snap
+  s_1563a0255fd448::t_32ec29c6696dbc 16-17,40-47,72-105
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/invalid.jsx.snap
+  s_1563a0255fd448::t_32ec29c6696dbc 16-17,92,98,100,104-134,136-137,149,153-155,157-158,170,174-176,178-179
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/valid.jsx.snap
+  s_1563a0255fd448::t_32ec29c6696dbc 28-31
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/valid.jsx
+  s_1563a0255fd448::t_ee9726389cacb3 21-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "3e3daf73cccb49690b4c20f84fa6b231f9df030f",
+  "prompts": {},
+  "sessions": {
+    "s_1563a0255fd448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cb138cf4-679c-4aeb-b9a3-cb3e45deadc2",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
