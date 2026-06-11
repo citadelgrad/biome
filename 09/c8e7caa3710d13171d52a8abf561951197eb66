@@ -1,0 +1,37 @@
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/arrowOptions/invalid.jsx.snap
+  s_1563a0255fd448::t_4a453c865f7733 20-75
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/valid.jsx.snap
+  s_1563a0255fd448::t_32ec29c6696dbc 28-31
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/functionExpressionOptions/invalid.jsx.snap
+  s_1563a0255fd448::t_32ec29c6696dbc 16-17,40-47,72-105
+  s_1563a0255fd448::t_4a453c865f7733 22-39,48-71
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/valid.jsx
+  s_1563a0255fd448::t_ee9726389cacb3 21-24
+crates/biome_js_analyze/src/lint/nursery/use_react_function_component_definition.rs
+  s_1563a0255fd448::t_901d1392f21398 421-426
+  s_1563a0255fd448::t_83dba1979b6b97 480-481
+  s_1563a0255fd448::t_b05cd0d3b8fb9e 8-420,427-479,482-606
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/functionExpressionOptions/invalid.jsx
+  s_1563a0255fd448::t_f84f15e626d29b 9-10
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/invalid.jsx.snap
+  s_1563a0255fd448::t_32ec29c6696dbc 16-17,92-179
+  s_1563a0255fd448::t_4a453c865f7733 34-59
+crates/biome_js_analyze/tests/specs/nursery/useReactFunctionComponentDefinition/invalid.jsx
+  s_1563a0255fd448::t_72e6759bdcb8ed 10-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "09c8e7caa3710d13171d52a8abf561951197eb66",
+  "prompts": {},
+  "sessions": {
+    "s_1563a0255fd448": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cb138cf4-679c-4aeb-b9a3-cb3e45deadc2",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": null
+    }
+  }
+}
